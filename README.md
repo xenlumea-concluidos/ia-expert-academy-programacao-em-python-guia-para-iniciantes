@@ -4,5 +4,5 @@ Repositório para o curso "Programação em Python: O Guia para Iniciantes" na I
 
 Instrutor: Jones Granatyr.
 
-:star: Iniciado em 20 de setembro de 2022.
-:star2: Concluído em: ...
+:star: Iniciado em 19 de setembro de 2022.
+:star2: Concluído em: 16 de outubro de 2022.
